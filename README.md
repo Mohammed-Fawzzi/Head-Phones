@@ -13,8 +13,8 @@ Head Phones: is a web application designed to help you explore and choose the ri
 
 - React
 - React Icons
-- Framer Motion
 - Tailwind CSS
+- Framer Motion
 - React Mouse Follower
 
 ## Preview
@@ -26,7 +26,6 @@ Head Phones: is a web application designed to help you explore and choose the ri
 ![Preview Image 5](/preview/preview4.png);
 ![Preview Image 6](/preview/preview5.png);
 ![Preview Image 7](/preview/preview6.png);
-![Preview Image 8](/preview/preview7.png);
 
 ## Live Demo
 
