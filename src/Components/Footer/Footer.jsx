@@ -60,7 +60,7 @@ const Footer = () => {
             scale: 5,
             mixBlendMode: "difference"
             }}>
-            <p className='text-center pt-3 footer-rights'>© All Rights Reserved <a href="https://www.linkedin.com/in/mohamed-fawzzi-72b962280/" rel="noopener noreferrer" target="_blank" className="fw-bold text-decoration-none">Mohamed Fawzzi.</a></p>
+            <p className='text-center pt-3 footer-rights'>© All Rights Reserved <a href="https://www.linkedin.com/in/mohamed-fawzzi98/" rel="noopener noreferrer" target="_blank" className="fw-bold text-decoration-none">Mohamed Fawzzi.</a></p>
           </UpdateFollower>
         </div>
       </footer>
